@@ -16,6 +16,6 @@ current status: surviving a cris internship and striver's a2z simultaneously.
 
 ## Certifications
 
-[<img src="https://images.credly.com/size/150x150/images/740d527e-bd72-4532-98ea-0f6c05ee05c4/image.png" alt="IBM Data Science Professional Certificate" width="110"/>](https://www.credly.com/badges/e231ad7b-6f61-4cda-979b-9d43f89e60c6)
+[<img src="https://images.credly.com/size/150x150/images/0f740f0e-52f0-4ff3-bcac-e8d2ff735c07/image.png" alt="IBM Data Science Professional Certificate" width="110"/>](https://www.credly.com/badges/e231ad7b-6f61-4cda-979b-9d43f89e60c6)
 &nbsp;&nbsp;
-[<img src="https://images.credly.com/size/150x150/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" alt="AWS Academy Cloud Foundations" width="110"/>](https://www.credly.com/badges/b11ab547-ab0b-4479-bce8-b1fd827116f1)
+[<img src="https://images.credly.com/size/150x150/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" alt="AWS Academy Cloud Foundations" width="110"/>](https://www.credly.com/badges/b11ab547-ab0b-4479-bce8-b1fd827116f1)
