@@ -8,7 +8,7 @@ currently interning @ cris, ministry of railways.
 not the guy who talks about "the future of ai" —
 more the guy who just tries to make it work on a deadline.
 
-current status: surviving a cris internship and striver's a2z simultaneously.
+current status: surviving afcat preparation and neetcode 150 simultaneously.
 
 **fun facts:**
 - music on 100% of the time while coding
